@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nuse/static/css/main.9e816da4.css",
+    "main.js": "/Nuse/static/js/main.520cc3d9.js",
+    "static/js/453.c43cfad4.chunk.js": "/Nuse/static/js/453.c43cfad4.chunk.js",
+    "index.html": "/Nuse/index.html",
+    "main.9e816da4.css.map": "/Nuse/static/css/main.9e816da4.css.map",
+    "main.520cc3d9.js.map": "/Nuse/static/js/main.520cc3d9.js.map",
+    "453.c43cfad4.chunk.js.map": "/Nuse/static/js/453.c43cfad4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e816da4.css",
+    "static/js/main.520cc3d9.js"
+  ]
+}
